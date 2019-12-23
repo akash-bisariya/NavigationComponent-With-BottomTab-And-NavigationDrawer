@@ -1,10 +1,10 @@
-package com.example.myapplication
+package com.example.myapplication.wordCodeLabSample
 
 import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
+import com.example.myapplication.R
 import kotlinx.android.synthetic.main.activity_add_word.*
 
 class AddWordActivity : AppCompatActivity() {

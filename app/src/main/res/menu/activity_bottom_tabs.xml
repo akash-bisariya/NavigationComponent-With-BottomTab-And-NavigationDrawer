@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_tools"
+        android:orderInCategory="100"
+        android:title="@string/menu_tools"
+        android:icon="@drawable/ic_menu_manage"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nav_slideshow"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="@string/menu_slideshow"
+        app:showAsAction="never" />
+</menu>

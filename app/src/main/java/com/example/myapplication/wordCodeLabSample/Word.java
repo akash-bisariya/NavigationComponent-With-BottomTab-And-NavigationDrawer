@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.wordCodeLabSample;
 
 
 import androidx.annotation.NonNull;
